@@ -1,3 +1,5 @@
+%11060264 Sümeyye Kaptan
+%10060305 Merve Arslan
 clc;   
 close all;  
 clear; 
